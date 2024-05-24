@@ -2,6 +2,7 @@ import numpy as np
 
 print("Dziala?")
 
+<<<<<<< feature/cross-product
 data = np.array([[1, 2], [3, 4], [5, 6]])
 
 # Reshape matrix into 1D array
@@ -27,3 +28,6 @@ print(f"Standard deviation of 1D array: {std}")
 print(f"Reshaped 2D matrix: {new_matrix}")
 print(f"Element-wise multiplied matrix: {mult_matrix}")
 print(f"Sum of all elements in element-wise multiplied matrix: {sum_mult_matrix}")
+=======
+print("Test2")
+>>>>>>> main
